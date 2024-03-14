@@ -1,2 +1,3 @@
 #this is first file
-print("hello world")
+for i in range(0,5):
+  print("hello world",i)
